@@ -14,7 +14,7 @@ Collect, curate and display social media content from Twitter and Instagram dire
 
 [Social Streams](https://socialstreams.com/) lets you aggregate and display social media content from Instagram and Twitter directly on your WordPress website. Collect conversations and photos from your own social content or public conversations based on hashtags - all in one place. Social Streams is focused on simplicity and making photography shine.
 
-=== Features: ===
+== Features: ==
 
 - Streams Twitter and Instagram
   - Stream your own Twitter & Instagram feeds or public feeds using hashtags
@@ -50,13 +50,13 @@ Please find answers to your questions, suggest a feature, or just drop us a line
 == Screenshots ==
 
 1. Social Streams Example 1
-1. Social Streams Example 2
-1. Social Streams Example 3
-1. Admin Page 1
-1. Admin Page 2
-1. Moderation 1
-1. Moderation 2
-1. Moderation 3
+2. Social Streams Example 2
+3. Social Streams Example 3
+4. Admin Page 1
+5. Admin Page 2
+6. Moderation 1
+7. Moderation 2
+8. Moderation 3
 
 == Changelog ==
 
