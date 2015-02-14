@@ -24,9 +24,9 @@ Features:
   - Or manage content using our super simple moderation panel from your mobile or desktop
   - Automagically integrates with your theme and is fully responsive. Social Streams will pick up your fonts and link colors (and can be hacked further with CSS)
 - Full-Page Event Stream
-  - Social Streams also gives you a live-updating, full-screen Social Stream to display at your performances and events or  in your stores, restaurants and venues.
+  - Social Streams also gives you a live-updating, full-screen Social Stream to display at your performances and events or in your stores, restaurants and venues.
 - Stunning. Yes it’s a feature.
-  - Displays all your social content in visually aesthetically grid.
+  - Displays all your social content in an aesthetically pleasing grid.
   - Focused on making images and videos look fantastic
 - Smart integration with WordPress
   - seamless, responsive, full-page feed with no code required
