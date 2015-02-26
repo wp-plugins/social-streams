@@ -25,6 +25,8 @@ Features:
   - Automagically integrates with your theme and is fully responsive. Social Streams will pick up your fonts and link colors (and can be hacked further with CSS)
 - Full-Page Event Stream
   - Social Streams also gives you a live-updating, full-screen Social Stream to display at your performances and events or in your stores, restaurants and venues.
+- Shortcode Integration
+  - Display Social Streams anywhere on your site by using the [social-streams] shortcode. 
 - Stunning. Yes it’s a feature.
   - Displays all your social content in an aesthetically pleasing grid.
   - Focused on making images and videos look fantastic
@@ -62,3 +64,7 @@ Please find answers to your questions, suggest a feature, or just drop us a line
 
 = 1.0 =
 First public release
+
+= 1.0.1 =
+Introducing the shortcode! Add your stream to any page or post using the shortcode [social-streams]. 
+
